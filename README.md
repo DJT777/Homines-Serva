@@ -6,6 +6,7 @@
 ### Develop C++ Deployment of YoloV7 for Fastest Performance
 ### Push Expanded Dataset to Roboflow and C++ Deployment to GitHub
 ### Provide Theoretical Implementation of Save-Humans AI
+## END TODO
 
 
 #A Human Detection System Created in Collaboration Between an AI and a Human
