@@ -6,6 +6,8 @@
 ### Develop C++ Deployment of YoloV7 for Fastest Performance
 ### Push Expanded Dataset to Roboflow and C++ Deployment to GitHub
 ### Provide Theoretical Implementation of Save-Humans AI
+### Deploy C++ Deployment to nVidia Jetson Nano
+### Integrate C++ Deployment With Autonomous Robotics
 ## END TODO
 
 
