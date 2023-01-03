@@ -1,5 +1,8 @@
 # Save-Humans
 
+
+
+
 # Work in Progress:
 ## TO-DO:
 ### Expand Dataset Beyond 105 images to 1000+
@@ -9,6 +12,13 @@
 ### Deploy C++ Deployment to nVidia Jetson Nano
 ### Integrate C++ Deployment With Autonomous Robotics
 ## END TODO
+
+
+# Research After Project Completion:
+### Thermal Imaging For Emotion and Cognitive Assessment of Human
+### Human Facial and Ocular Pattern Classification
+
+
 
 
 #A Human Detection System Created in Collaboration Between an AI and a Human
