@@ -1,11 +1,11 @@
 # Save-Humans
 
-#Work in Progress:
-TO-DO:
-Expand Dataset Beyond 105 images to 1000+
-Develop C++ Deployment of YoloV7 for Fastest Performance
-Push Expanded Dataset to Roboflow and C++ Deployment to GitHub
-Provide Theoretical Implementation of Save-Humans AI
+# Work in Progress:
+## TO-DO:
+### Expand Dataset Beyond 105 images to 1000+
+### Develop C++ Deployment of YoloV7 for Fastest Performance
+### Push Expanded Dataset to Roboflow and C++ Deployment to GitHub
+### Provide Theoretical Implementation of Save-Humans AI
 
 
 #A Human Detection System Created in Collaboration Between an AI and a Human
