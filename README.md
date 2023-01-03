@@ -1,5 +1,11 @@
 # Save-Human-Females
 
+
+#A Human Detection System Created in Collaboration Between an AI and a Human
+
+#Credit: Dylan James Tussey and OpenAI
+
+#ChatGPT Transcript
 Dylan Tussey
 How would I go about composing a computer vision dataset of human females and human males?
 
