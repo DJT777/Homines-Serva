@@ -17,6 +17,7 @@
 ## Research After Project Completion:
 ### Thermal Imaging For Emotional and Cognitive Assessment of Human
 ### Voice Analysis of Human Being
+### Body Language Analysis By Computer Vision
 ### Human Facial and Ocular Pattern Classification
 ### Geospatial Communications And Autonomous Robotics
 ### Renewable Energy Sources For Sustained Long Term Deployment of Autonomous Robotics
