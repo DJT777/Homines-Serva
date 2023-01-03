@@ -1,7 +1,7 @@
 # Save-Humans
 
 
-
+# NOTES
 
 # Work in Progress:
 ## TO-DO:
@@ -14,9 +14,11 @@
 ## END TODO
 
 
-# Research After Project Completion:
+## Research After Project Completion:
 ### Thermal Imaging For Emotion and Cognitive Assessment of Human
 ### Human Facial and Ocular Pattern Classification
+
+# END NOTES
 
 
 
