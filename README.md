@@ -20,6 +20,7 @@
 ### Body Language Analysis By Computer Vision
 ### Human Facial and Ocular Pattern Classification
 ### Geospatial Communications And Autonomous Robotics
+### Subterranean Imaging and Mapping By LIDAR, Ground Penetrating Radar, Seismic Imaging, Photogammetry, and Sonar
 ### Renewable Energy Sources For Sustained Long Term Deployment of Autonomous Robotics
 
 ## END NOTES
