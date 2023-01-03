@@ -15,7 +15,7 @@
 
 
 ## Research After Project Completion:
-### Thermal Imaging For Emotion and Cognitive Assessment of Human
+### Thermal Imaging For Emotional and Cognitive Assessment of Human
 ### Human Facial and Ocular Pattern Classification
 
 ## END NOTES
