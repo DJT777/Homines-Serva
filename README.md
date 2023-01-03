@@ -25,7 +25,7 @@
 
 #A Human Detection System Created in Collaboration Between an AI and a Human
 
-#Credit: Dylan James Tussey and OpenAI
+#Credit: Dylan James Tussey and OpenAI (https://chat.openai.com/chat)
 
 #ChatGPT Transcript
 
