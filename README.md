@@ -7,6 +7,10 @@
 
 #ChatGPT Transcript
 
+#Dataset: https://susanqq.github.io/UTKFace/
+  
+#Dataset Annotated For MK1 Training: https://app.roboflow.com/cyborg-ninja/save-human-females/1
+
 
 Dylan Tussey
 How would I go about composing a computer vision dataset of human females and human males?
@@ -58,3 +62,4 @@ tar -zxvf part2.tar.gz
 tar -zxvf part3.tar.gz
 
 This will extract each .tar.gz file into the current directory. You can use the -C option with this method as well to specify an output directory.
+
