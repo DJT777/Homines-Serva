@@ -15,7 +15,7 @@
 
 
 ## Research After Project Completion:
-### Thermal Imaging For Emotional and Cognitive Assessment of Human
+### Thermal Imaging For Emotional, Cognitive, and Health Assessment of Human
 ### Voice Analysis of Human Being
 ### Body Language Analysis By Computer Vision
 ### Human Facial and Ocular Pattern Classification
