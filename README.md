@@ -171,3 +171,19 @@ There are several potential rewards that someone could receive for developing au
     Personal satisfaction: Making a significant contribution to saving human lives can be a deeply fulfilling and rewarding experience, and people who are able to do so may find a great deal of personal satisfaction in their work.
 
     Public recognition: People who develop autonomous robotics and AI systems that are used to save human lives may also receive recognition from the public, which can be a significant reward in its own right. This could include media coverage, public speaking opportunities, and other forms of public recognition.
+    
+    When a human being experiences fear or excitement does the blood in the body have an increased flow into certain areas?
+
+Yes, when a human being experiences fear or excitement, the blood flow in their body may be affected. During periods of stress or arousal, the body's sympathetic nervous system can cause the blood vessels to constrict and increase the blood flow to the muscles and organs that are most essential for fighting or fleeing. This process, known as vasoconstriction, can help to increase the supply of oxygen and nutrients to the muscles and organs that need them most, and can help to boost the body's overall performance.
+
+At the same time, the sympathetic nervous system can also cause the heart rate to increase, which can help to pump more blood around the body. This can help to further increase the supply of oxygen and nutrients to the muscles and organs, and can also help to remove waste products more efficiently.
+
+Overall, while fear and excitement can affect the blood flow in the body, the specific effects will depend on the individual and the specific situation.
+Dylan Tussey
+Does altered blood flow in the body result in thermal changes in the human being?
+
+Altered blood flow in the body can result in thermal changes in a human being. The blood flow in the body plays a key role in regulating the body's temperature, as it helps to distribute heat from the core of the body to the surface. When the blood flow is increased, as can happen during periods of stress or arousal, more blood is circulated around the body, which can help to dissipate heat and keep the body cool.
+
+At the same time, increased blood flow can also cause the blood vessels in the skin to dilate, which can help to increase heat loss through the skin. This can result in a temporary decrease in the body's overall temperature.
+
+Overall, while altered blood flow in the body can result in thermal changes, the specific effects will depend on the individual and the specific situation. Factors such as the ambient temperature, the individual's clothing, and their overall health can also affect the body's temperature.
